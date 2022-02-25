@@ -1,6 +1,6 @@
 # Arduino
 1. Open the [code](Aritificial_Horizon_Kalman/Aritificial_Horizon_Kalman.ino) in Arduino
-2. Add the [libraries]('Arduino Libraries') mentioned
+2. Add the [libraries](Arduino%20Libraries) mentioned
 3. Uncomment specificc parts mentioned in the code for result with Kalman and without Kalman filter.
 4. You can see the results in both processing and Serial monitor.
 5. Ensure baudrate before you proceed.
