@@ -6,6 +6,6 @@
 5. Upload the code and enjoy the Robot getting balanced.
 
 # Python
-1. Open the [python code](SelfBalCar.py) file and run it while the code is running i.e Robot is switched on.
+1. Open the [python code](selfBalCar.py) file and run it while the code is running i.e Robot is switched on.
 2. You should wait until it takes 200 values of gyroscope readings and produce the mean.
 3. This mean is taken as the originalSetpoint which is an experimental result.
