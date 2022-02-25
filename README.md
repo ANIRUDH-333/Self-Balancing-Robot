@@ -5,6 +5,10 @@ What happens if the pilot doesn’t know the information in terms of the aircraf
 To resolve this problem artificial horizon is used.
 It is referred to as gyros or artificial horizons, operated with a gyroscope that indicates at which level aircraft are oriented to the earth.
 
+# Wanna run and play?
+Go and find the codes for [Artificial Horizon](Artidicial%20Horizon) and [Self Balancing Robot](Self%20Balancing%20Robot) in these folders and their Readme files for help to run the codes.
+
+
 # Contributors
 <details>
 <summary> Anirudh Edpuganti</summary>
